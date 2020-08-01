@@ -1,7 +1,10 @@
 <!--### Hi there 👋-->
 うさみょん([myon2019](https://twitter.com/myon2019))/[mtripg6666tdr](https://twitter.com/mtripg6666tdr)です
-I'm a mtripg6666tdr.
+
+I'm mtripg6666tdr.
+
 個人で勝手に便利そうなアプリやゲームなどを制作したりしています。
+
 I create and develop some useful applications and games as a hobby. 
 
 Twitter：[@mtripg6666tdr](https://twitter.com/mtripg6666tdr)
