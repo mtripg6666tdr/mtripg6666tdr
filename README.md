@@ -5,7 +5,7 @@ I'm mtripg6666tdr.
 
 個人で勝手に便利そうなアプリやゲームなどを制作したりしています。
 
-I create and develop some useful applications and games as a hobby. 
+I develop some useful applications and games as a hobby. 
 
 Twitter：[@mtripg6666tdr](https://twitter.com/mtripg6666tdr)
 
