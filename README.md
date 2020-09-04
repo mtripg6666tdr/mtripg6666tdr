@@ -2,8 +2,8 @@
 ### うさみょん([myon2019](https://twitter.com/myon2019))/[mtripg6666tdr](https://twitter.com/mtripg6666tdr)です。 I'm mtripg6666tdr.  
 - [みっくすくらっぷ](https://scrpg.tyanoyu.net/)や[みっくすくらっぷ記事](https://myon2019.blogspot.com/)の主。
 - C#とJavaScriptかけます。C++は勉強中。
-- 開発してるプラットフォーム：Windowsのネイティブ、.NET Framework、Android(Xamarin)、Web(HTML/CSS+JavaScript)、Unity、Google Apps Script、Node.js
-- Javaや**Kotlin**でAndroid開発してみたい...
+- 開発してるプラットフォーム：Windowsのネイティブ、.NET Framework、Android(Xamarin)、Web(HTML/CSS+JavaScript)、Unity、Google Apps Script、Node.js等々…
+- **Kotlin**でAndroid開発してみたい...
 - モバイルはAndroid派。Android好き
 - KaisenDon Devsメンバー
 
