@@ -12,8 +12,9 @@ Check [this profile page](https://myon.page.link/pfc) to find more information o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtripg6666tdr&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 問い合わせ・連絡先
-- Discordサーバー、Twitter、またはメールでお願いします。各連絡先は[こちらから](http://me.scrpg.tyanoyu.net/)からアクセスできます。
+### 問い合わせ・連絡先 Contact
+- Discordサーバー、Twitter、またはメールでお願いします。各連絡先は[こちらから](http://me.scrpg.tyanoyu.net/)からアクセスできます。  
+- You can contact with me by the Discord guild, DM on Twitter, or email, which you can access from [this page](http://me.scrpg.tyanoyu.net/).
 
 <!--
 **mtripg6666tdr/mtripg6666tdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
