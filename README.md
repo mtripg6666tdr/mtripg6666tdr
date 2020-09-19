@@ -5,7 +5,7 @@
 - 開発してるプラットフォーム：Windowsのネイティブ、.NET Framework、Android(Xamarin)、Web(HTML/CSS+JavaScript)、Unity、Google Apps Script、Node.js等々…
 - **Kotlin**でAndroid開発してみたい...
 - モバイルはAndroid派。Android好き
-- KaisenDon Devsメンバー
+- [KaisenDon](https://discord.gg/fEPjk5d) Devsメンバー
 
 私についてのその他の情報は[こちらのプロフィールページ](https://myon.page.link/pfc) をご確認ください  
 Check [this profile page](https://myon.page.link/pfc) to find more information of me.
