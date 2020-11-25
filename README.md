@@ -1,7 +1,7 @@
 <!--### Hi there 👋-->
 ### うさみょん([myon2019](https://twitter.com/myon2019))/[mtripg6666tdr](https://twitter.com/mtripg6666tdr)です。 I'm mtripg6666tdr.  
 - [みっくすくらっぷ](https://scrpg.tyanoyu.net/)や[みっくすくらっぷ記事](https://myon2019.blogspot.com/)の主。
-- [Twitter](https://twitter.com/mtripg6666tdr)は現在休止中。
+- [Twitter](https://twitter.com/mtripg6666tdr)は~~現在休止中~~一時的に再開しました。
 - 最近はDiscordにいることが多い。[BanG Dream!ファン！](http://bangdreamserver.scrpg.tyanoyu.net)などのサーバーも運営中。
 - C#とJavaScriptかけます。C++は勉強中。
 - 開発してるプラットフォーム：.NET Framework、Web(HTML/CSS+JavaScript)、Android(Xamarin)、Unity、Node.js、Google Apps Script 等々
