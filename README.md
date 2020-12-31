@@ -1,5 +1,7 @@
 <!--### Hi there 👋-->
 ### うさみょん([myon2019](https://twitter.com/myon2019))/[mtripg6666tdr](https://twitter.com/mtripg6666tdr)です。 I'm mtripg6666tdr.  
+2021年、大幅に開発休止します。I will pause almost all of developing.
+<!--
 - [みっくすくらっぷ](https://scrpg.tyanoyu.net/)や[みっくすくらっぷ記事](https://myon2019.blogspot.com/)の主。
 - [Twitter](https://twitter.com/mtripg6666tdr)は~~現在休止中~~一時的に再開しました。
 - 最近はDiscordにいることが多い。[BanG Dream!ファン！](http://bangdreamserver.scrpg.tyanoyu.net)などのサーバーも運営中。
@@ -19,7 +21,7 @@ Check [this profile page](https://myon.page.link/pfc) to find more information o
 ### 問い合わせ・連絡先 Contact
 - Discordサーバー、Twitter、またはメールでお願いします。各連絡先は[こちらから](http://me.scrpg.tyanoyu.net/)からアクセスできます。  
 - You can contact with me by the Discord guild, DM on Twitter, or email, which you can access from [this page](http://me.scrpg.tyanoyu.net/).
-
+-->
 <!--
 **mtripg6666tdr/mtripg6666tdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
