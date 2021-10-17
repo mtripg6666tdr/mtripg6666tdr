@@ -1,0 +1,21 @@
+* {
+    max-width: 100vw;
+}
+html {
+    margin: 0px;
+    max-width: 100vw;
+}
+.header_nav, .header_nav * {
+    max-width: 100vw;
+}
+.header_nav_title, .header_nav_title * {
+    margin-top: 10px;
+    width: 100vw;
+    max-width: 300px;
+}
+.header_nav_shortcut a {
+    display: none;
+}
+div.top_banner p {
+    top: 10%;
+}
