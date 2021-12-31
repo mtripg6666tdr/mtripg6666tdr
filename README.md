@@ -1,6 +1,11 @@
 <!--### Hi there 👋-->
-### うさみょん([myon2019](https://twitter.com/myon2019))/[mtripg6666tdr](https://twitter.com/mtripg6666tdr)です。 I'm mtripg6666tdr.  
-2021年、一部のリポジトリと緊急の措置以外の開発を大幅に休止します。I will pause almost all of developing.
+### うさみょん(myon2019)/mtripg6666tdrです  
+2021年に引き続き、2022年も、開発はあまり進めることができないかもしれません  
+
+I'm mtripg6666tdr.   
+I might develop little in 2022, same as 2021.  
+
+プロフサイト: https://me.myon.ga
 <!--
 - [みっくすくらっぷ](https://scrpg.tyanoyu.net/)や[みっくすくらっぷ記事](https://myon2019.blogspot.com/)の主。
 - [Twitter](https://twitter.com/mtripg6666tdr)は~~現在休止中~~一時的に再開しました。
