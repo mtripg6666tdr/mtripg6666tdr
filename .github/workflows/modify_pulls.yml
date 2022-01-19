@@ -21,6 +21,8 @@ jobs:
         
       - name: Commit & Push
         run: |
+          git fetch
+          git switch update-portfolio
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
