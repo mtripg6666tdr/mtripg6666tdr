@@ -1,9 +1,7 @@
 <!--### Hi there 👋-->
 ### うさみょん(myon2019)/mtripg6666tdrです  
 2021年に引き続き、2022年も、開発はあまり進めることができないかもしれません  
-
-I'm mtripg6666tdr.   
-I might develop little in 2022, same as 2021.  
+I'm mtripg6666tdr. I might develop little in 2022, same as 2021.  
 
 プロフサイト: [usamyon.moe](https://usamyon.moe)  
 各リポジトリ開発状況: [Projects.md](Projects.md)
