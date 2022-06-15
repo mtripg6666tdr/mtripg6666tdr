@@ -1,10 +1,11 @@
 <!--### Hi there 👋-->
 ### うさみょん(myon2019)/mtripg6666tdrです  
-2021年に引き続き、2022年も、開発はあまり進めることができないかもしれません  
+2021年に引き続き、2022年も、開発はあまり進めることができないかもしれません([→開発状況](Projects.md))  
 I'm mtripg6666tdr. I might develop little in 2022, same as 2021.  
 
 プロフサイト: [usamyon.moe](https://usamyon.moe)  
-各リポジトリ開発状況: [Projects.md](Projects.md)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtripg6666tdr&layout=compact&langs_count=10)
 
 <!--
 **mtripg6666tdr/mtripg6666tdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
