@@ -1,10 +1,10 @@
 <!--### Hi there 👋-->
 ### うさみょん(myon2019)/mtripg6666tdrです  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtripg6666tdr&layout=compact&langs_count=10&hide=c,svelte&bg_color=ffffff00&title_color=fe489b&text_color=e5418c" align="right" width="49%">
+
 ![Profile Views Count](https://komarev.com/ghpvc/?username=mtripg6666tdr&color=fe489b&label=%E2%98%85Profile+views)  
 2021年に引き続き、2022年も、開発はあまり進めることができないかもしれません  
-I'm mtripg6666tdr. I might develop little in 2022, same as 2021.  
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtripg6666tdr&layout=compact&langs_count=10)
+I'm mtripg6666tdr. I might develop little in 2022, same as 2021.
 
 <!--
 **mtripg6666tdr/mtripg6666tdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
