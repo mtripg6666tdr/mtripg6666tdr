@@ -1,6 +1,8 @@
 name: Modify Pulls
 on:
   pull_request:
+    types: 
+      - opened
     branches:
       - master
   workflow_dispatch:
