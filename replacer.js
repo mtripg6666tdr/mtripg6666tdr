@@ -15,9 +15,8 @@ exec("git log -n 1 --pretty=%H", (error,stdout,stderr) => {
       return fs.readFileSync(path, {encoding:"utf-8"})
         .replace(/(href|src)="(.+?)"/g, (content) => {
           const url = content.match(/(href|src)="(?<url>.+)"/).groups["url"];
-          if(!url.endsWith(".js") && !url.endsWith(".css")) return content;
-          if(url.startsWith("/"))
-            return content.replace(/"(?<url>.+)"/, () => `"https://cdn.jsdelivr.net/gh/mtripg6666tdr/mtripg6666tdr@${hash}${url}"`);
+          if(!url.endsWith(".js") && !url.endsWith(".css") && url !== "/") return content;
+          return content.replace(/"(?<url>.+)"/, () => `"https://cdn.jsdelivr.net/gh/mtripg6666tdr/mtripg6666tdr@${hash}${url.startsWith("/") ? url : `/${url}`}"`);
         });
     })(), {encoding:"utf-8"});
   })
