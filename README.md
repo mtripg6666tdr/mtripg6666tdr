@@ -1,6 +1,8 @@
 <!--### Hi there 👋-->
 ### うさみょん(myon2019)/mtripg6666tdrです  
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtripg6666tdr&layout=compact&langs_count=10&hide=c,svelte&bg_color=ffffff00&title_color=fe489b&text_color=e5418c" align="right" width="49%">
+-->
 
 ![Profile Views Count](https://komarev.com/ghpvc/?username=mtripg6666tdr&color=fe489b&label=%E2%98%85Profile+views)  
 2021年、2022年に引き続き、2023年も、開発はあまり進めることができないかもしれません  
