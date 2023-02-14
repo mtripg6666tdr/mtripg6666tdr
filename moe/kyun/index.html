@@ -8,8 +8,8 @@
   <body>
     <p class="m_"></p>
     <script>
-      let n = 0;
-      localStorage.setItem("moemoe", n = (Number(localStorage.getItem("moemoe") || 0)) + 1);
+      let n = (Number(localStorage.getItem("moemoe") || 0)) + 1;
+      localStorage.setItem("moemoe", n >= 4 ? 0 : n);
       document.getElementsByClassName("m_")[0].textContent = ["萌え","萌え","きゅん"].slice(0, n).join("");
     </script>
   </body>
